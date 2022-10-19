@@ -1,62 +1,94 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
 
+
 * {
-        margin: 0;
-        padding: 0;
-        border: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
 }
 
 body {
-        font-family: latom sans-serif;
-        font-weight: 300;
-        color: #3a3a3a;
-        
+    font-family: latom sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+    
 
 }
 
 h1 {
-        font-family: Oswald, sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 4px;
-        color: #252525;
-        font-size: 100%;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+    font-size: 100%;
 
 }
 
 h2 {
-        font-family: Oswald, sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 4px;
-        color: #252525;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
 }
 
 #logo {
-        float: left;
-        font-size: 100px;
-        margin-left: 30px;
+    float: left;
+    font-size: 100px;
+    margin-left: 30px;
 }
 
-        #main {
-                font-size: 110%;
-                letter-spacing: 4px;
-        }
+    #main {
+            font-size: 110%;
+            letter-spacing: 4px;
+    }
 
-        #main li {
-                float: right;
-                list-style: none;
-                margin: 30px;
-        }
+    #main li {
+            float: right;
+            list-style: none;
+            margin: 30px;
+    }
 
-    
-        #main a:hover {
-                border-bottom: 1px solid #3a3a3a;
+
+    #main a:hover {
+            border-bottom: 1px solid #3a3a3a;
 }
 
 .active {
-        border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #3a3a3a;
 }
 
+    img {
+        background-size: contains;
+        width: 300px;
+        height: 300px;
+        border: solid 2px #3a3a3a;
+      }
 
-        #main a {
-                text-decoration: none;
-                color: inherit;}
+
+      .social-networks {
+        text-align: center;
+
+}
+
+.social-networks > li {
+        display: inline;
+}
+
+.social-networks i {
+        font-size: 160%;
+        margin: 1%;
+        padding: 4%;
+        color: #3a3a3a;
+}
+
+#photos { clear: both;
+    line height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 100%;
+}
+
