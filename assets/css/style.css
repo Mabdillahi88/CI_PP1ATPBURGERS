@@ -9,11 +9,47 @@
 }
 
 body {
-    font-family: latom sans-serif;
+    font-family: oslwald, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
+    text-align: center;
+    font-size: 25px;
     
 
+}
+
+.text-center {
+  text-align: center;
+}
+
+#home {
+  background-image: url('../images/homepage\ pic.jpg')
+}
+
+.page-header {
+	height: 50vh;
+	background: center 75% / cover no-repeat;
+}
+
+.genius1 {
+	font-size: 150px;
+	margin: 0;
+  color: antiquewhite;
+  text-align: center;
+  font-family: oswald, sans-serif;
+}
+
+.genius2 {  
+  font-size: 100px;
+	margin: 0;
+  color: antiquewhite;
+  text-align: center;
+  font-family: oswald, sans-serif;
+}
+
+.vertical-center {
+  position: relative;
+  top: 30%;
 }
 
 h1 {
@@ -34,12 +70,22 @@ h2 {
     color: #252525;
 }
 
-h3 {    display: block;
-        width: 80%;
-        margin: 0 auto;
-        padding: inherit;
-
+#contact {
+  margin-bottom: 50px;
 }
+
+.contact-boxes-container {
+  width: 66%;
+  margin: 0 auto;
+}
+
+.contact-box-left {
+  width: 250px;
+  margin-top: -20px;
+float: left;
+}
+
+
 
 #logo {
     float: left;
@@ -49,6 +95,7 @@ h3 {    display: block;
 
     #main {
             font-size: 110%;
+            position: relative;
             letter-spacing: 4px;
     }
 
@@ -92,7 +139,8 @@ h3 {    display: block;
 }
 
 #photos { clear: both;
-    line height: 0;
+    line-height: 0;
+ 
     column-count: 4;
     column-gap: 0;
 }
@@ -123,7 +171,8 @@ hr {
   }
 
   .container {
-    padding: 16px;
+   padding-left: 50px;
+    padding-top: 200px;
   }
 
   .buttons {
@@ -146,3 +195,63 @@ hr {
   button:hover {
     opacity:1;
   }
+
+.section genius {  
+                width: 100%;
+               float: right;
+
+}
+
+.section genius .container genius {
+                                width: 80%;
+                                display: block;
+                                margin: 0px auto;
+                                padding: 50px 0;
+
+}
+
+.container genius .title genius {
+                                    width: 100%;
+                                    text-align: center;
+                                    margin-bottom: 50px;
+}
+
+.container genius .title genius h1 {
+  text-transform: uppercase;
+  font-size: 35px;
+  color: #88941e;
+
+}
+
+.container genius .title genius h1::after{
+  content: "";
+  height: 5px;
+  width: 100px;
+  background-color: #c4d156;
+  border-radius: 25px;
+  display: block;
+  margin: auto;
+
+}
+
+.content genius {   
+  float: left;
+  width: 55%;
+}
+
+.image-section genius { 
+  float: right;
+  width: 40%;
+
+}
+
+.image-section genius img {  
+  width: 100%;
+  height: auto;
+
+}
+
+.article genius {
+  text-align: center;
+  font-size: 50px;
+}
