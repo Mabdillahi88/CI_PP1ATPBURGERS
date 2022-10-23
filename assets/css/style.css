@@ -1,21 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
 
 
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
-    box-sizing: border-box;
+body {
+  font-family: oswald, sans-serif;
+  margin: 0;
 }
 
-body {
-    font-family: oslwald, sans-serif;
-    font-weight: 300;
-    color: #3a3a3a;
-    text-align: center;
-    font-size: 25px;
-    
+html {
+  box-sizing: border-box;
+}
 
+*, *:before, *:after {
+  box-sizing: inherit;
 }
 
 .text-center {
@@ -292,7 +288,74 @@ hr {
  
  }
 
+.tuition {
+  text-align: justify;
+  padding: 0;
+  margin: 0 0 20px 0;
+}
 
+
+
+
+
+
+
+
+.column-tuition {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card-tuition {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+.about-section-tuition {
+  padding: 50px;
+  text-align: center;
+  background-color: #d5d5d7;
+  color: #1b1818;
+}
+
+.container-tuition {
+  padding: 0 16px;
+}
+
+.container-tuition::after, .row-tuition::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title-tuition {
+  color: grey;
+}
+
+.button-tuition {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: rgb(212, 209, 209);
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button-tuition:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 650px) {
+  .column-tuition {
+    width: 100%;
+    display: block;
+  }
+}
 
 
 
