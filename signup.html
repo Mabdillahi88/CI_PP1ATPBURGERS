@@ -14,7 +14,7 @@
  
     <header class="text-center page-header" id="home">
 		<div class="vertical-center">
-		<h1 class="genius1"></h1>
+		<h1 class="genius1">Contact Us</h1>
 		<p class="genius2"></p>
 		</div>
 	</header>
@@ -22,10 +22,7 @@
 
         <nav>
             <ul id="main">
-                <a href="index.html">
-                    <h1 id="logo">Genius Kids <i class="fa-solid fa-brain"></i></h1></a>
-                               
-                    <li>    
+                <li>    
                     <a href="signup.html" class="active">Sign Up</a>
                 </li> 
                 <li> 
@@ -42,25 +39,58 @@
     </header>
     
 <section>
-    <div class="container">
-        <h3>Sign Up</h3>
-        <p>Please fill in this form to create an account.</p>
-        <hr>
-        <form action="https://formdump.codeinstitute.net/" method="post">
-                <label for="email"><b>Email</b></label>
-        <input type="text" placeholder="Enter Email" name="email" required>
-    
-        <label for="password"><b>Password</b></label>
-        <input type="password" placeholder="Enter Password" name="password" required>
-    
-        <label for="password-repeat"><b>Repeat Password</b></label>
-        <input type="password" placeholder="Repeat Password" name="password-repeat" required>
+<div class="container-online-contact-us-page">
+  <div style="text-align:center">
+    <h2>Contact Our Experts?</h2>
+   
+  </div>
+  <div class="row-online-contact-us-page">
+    <div class="column-online-contact-us-page">
 
-        <div class="button">
-            <button type="buttons">Reset</button>
-            <button type="submit">Sign Up</button>
-          </div>
-    </form>
+    </div>
+    <div class="column-online-contact-us-page">
+      <form action="/action_page.php">
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name.." required>
+        <label for="email"><b>Email</b></label>
+        <input type="text" placeholder="Enter Email" name="email" required>
+        <label for="country">Country</label>
+        <select id="country" name="country">
+          <option value="europe">Europe</option>
+          <option value="middle east">Middle East</option>
+          <option value="china">China</option>
+          <option value="india">India</option>
+          <option value="africa">Africa</option>
+          <option value="latin america">Latin America</option>
+        </select>
+        <label for="subject">Subject</label>
+         <select id="Subject" name="Subject">
+          <option value="Maths">Maths</option>
+          <option value="English">English</option>
+          <option value="Biology">Biology</option>
+          <option value="Chemistry">Chemistry</option>
+          <option value="Physics">Physics</option>
+          <option value="History">History</option>
+          <option value="Geography">Geography</option>
+          <option value="Computer Science">Computer Science</option>
+          <option value="Arabic">Arabic</option>
+        </select>
+        
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+        <input type="submit" value="Submit">
+      </form>
+      <div>
+                  <h1>Find us here:</h1>
+            <iframe src="https://bit.ly/2QVfkiy" height="300" width="100%">
+            </div>
+    </div>
+  </div>
+</div>
+
+</section>
+
 
     <footer>
         <ul class="social-networks">
