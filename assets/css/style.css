@@ -11,7 +11,7 @@ html {
 }
 
 *, *:before, *:after {
-  box-sizing: inherit;
+  box-sizing: border-box;
 }
 
 .text-center {
@@ -148,37 +148,22 @@ hr {
 
 @media screen and (max-width: 650px) {
 
-  .main-echo .section-title-echo {
+  .main-subject-page .content-subject-page {
     width: 100%;
     display: block;
   }
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- .main-echo {
+ .main-subject-page {
   width: 1170px;
   margin: 100px auto;
 }
-.section-title-echo {
+.content-subject-page {
   text-align: center;
   margin-bottom: 80px;
 }
-.section-title-echo h2 {
+.content-subject-page h2 {
   text-transform: capitalize;
   font-size: 35px;
   position: relative;
@@ -186,7 +171,7 @@ hr {
   padding-bottom: 20px;
   margin-bottom: 10px;
 }
-.section-title-echo h2:before {
+.content-subject-page h2:before {
   content: "";
   position: absolute;
   width: 60px;
@@ -197,15 +182,15 @@ hr {
   transform: translateX(-50%);
 }
 
-.menus-echo {
+.sub-main-subject-page {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
-.menu-column-echo {
+.sub-content-subject-page {
   width: 31%;
 }
-.menu-column-echo h4 {
+.sub-content-subject-page h4 {
   text-transform: capitalize;
   font-size: 24px;
   font-weight: 500;
@@ -213,7 +198,7 @@ hr {
   position: relative;
   padding-bottom: 10px;
 }
-.menu-column-echo h4:before {
+.sub-content-subject-page h4:before {
   content: "";
   position: absolute;
   width: 40px;
@@ -221,12 +206,12 @@ hr {
   background-color: #00875c;
   bottom: 0;
 }
-.single-menu-echo {
+.row-subject-page {
   display: flex;
   align-items: center;
   margin-top: 40px;
 }
-.single-menu-echo img {
+.row-subject-page img {
 
   max-width: 110px;
   border: 1px dashed #ddd;
@@ -234,10 +219,10 @@ hr {
   margin-right: 15px;
   
 }
-.single-menu-echo:hover img{
+.row-subject-page:hover img{
     transform: rotate(360deg);
 }
-.single-menu-echo .menu-content-echo h5 {
+.row-subject-page .column-subject-page h5 {
   text-transform: capitalize;
   font-size: 22px;
   font-weight: 500;
@@ -245,7 +230,7 @@ hr {
   padding-bottom: 5px;
   margin-bottom: 10px;
 }
-.single-menu-echo .menu-content-echo h5 span {
+.row-subject-page .column-subject-page h5 span {
   color: tomato;
   float: right;
   font-weight: 600;
@@ -342,29 +327,5 @@ input[type=submit]:hover {
 
 
 
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
-  .photos {
-    -ms-flex: 50%;
-    flex: 50%;
-    max-width: 50%;
-  }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-   .photos {
-    -ms-flex: 100%;
-    flex: 100%;
-    max-width: 100%;
-    
-  }
-}
-
-@media only screen and (max-width: 480px) {
-  .photos {
-    width: 100%;
-  }
-}
 
 
