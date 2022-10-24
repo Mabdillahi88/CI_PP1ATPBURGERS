@@ -27,8 +27,11 @@ html {
   background-color: #464646;
 }
 
+p {
+  padding: 0 1em;
+}
 .page-header {
-	height: 50vh;
+	min: 50vh;
 	background: center 75% / cover no-repeat;
 }
 
@@ -71,10 +74,6 @@ h2 {
     color: #252525;
 }
 
-
-
-
-
 #logo {
     float: left;
     font-size: 50px;
@@ -99,7 +98,7 @@ h2 {
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid ;
 }
 
     img {
@@ -134,7 +133,7 @@ h2 {
 }
 
 .photos > img {
-    width: 100%;
+    max-width: 100%;
     display: block;
 }
 
@@ -243,7 +242,7 @@ hr {
 /* Create four equal columns that floats next to each other */
 .column-about-us {
   float: left;
-  width: 25%;
+  max-width: 25%;
   padding: 10px;
 }
 
