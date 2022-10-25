@@ -53,7 +53,7 @@ img {
   max-width: 100%;
 }
 
-.container-3{
+.container-3 {
   color: white;
   font-size: 5rem;
   font-family: var(--ff-accent);
@@ -181,11 +181,11 @@ border-bottom: 1px solid ;
   }
 }
 
-.container--narrow {
+.About-us-page-3{
   max-width: 34rem;
 }
 
-.bg-light {
+.About-us-page-1 {
   background-color: var(--clr-primary-200);
 }
 
