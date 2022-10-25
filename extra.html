@@ -311,3 +311,354 @@ img {
 <script src="https://kit.fontawesome.com/5d222d0dd1.js" crossorigin="anonymous"></script>
 </body>
 </html>
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+
+
+body {
+  font-family: oswald, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+
+body,
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+.text-center {
+  text-align: center;
+}
+
+.image-2 {
+  background-image: url('../images/background\ pic.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+
+p {
+  padding: 0 1em;
+}
+.page-header {
+	min: 50vh;
+	background: center 75% / cover no-repeat;
+}
+
+.genius1 {
+	font-size: 150px;
+	margin: 0;
+  color: white;
+  text-align: center;
+  font-family: Roboto, sans-serif;
+}
+
+.genius2 {  
+  font-size: 100px;
+	margin: 0;
+  color: antiquewhite;
+  text-align: center;
+  font-family: oswald, sans-serif;
+}
+
+.vertical-center {
+  position: relative;
+  top: 30%;
+}
+
+h1 {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+    font-size: 100%;
+
+}
+
+h2 {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    text-align: left;
+    display: block;
+    letter-spacing: 4px;
+    color: #252525;
+}
+
+#logo {
+    float: left;
+    font-size: 50px;
+    margin-left: 30px;
+}
+
+    #main {
+            font-size: 110%;
+            position: relative;
+            letter-spacing: 4px;
+    }
+
+    #main li {
+            float: right;
+            list-style: none;
+            margin: 30px;
+    }
+
+
+    #main a:hover {
+            border-bottom: 1px solid #3a3a3a;
+}
+
+.active {
+    border-bottom: 1px solid ;
+}
+
+    img {
+        background-size: contains;
+        width: 300px;
+        height: 300px;
+        border: solid 2px #3a3a3a;
+      }
+
+
+      .social-networks {
+        text-align: center;
+
+}
+
+.social-networks > li {
+        display: inline;
+}
+
+.social-networks i {
+        font-size: 160%;
+        margin: 1%;
+        padding: 4%;
+        color: #3a3a3a;
+}
+
+.photos { clear: both;
+    line-height: 0;
+ 
+    column-count: 4;
+    column-gap: 0;
+}
+
+.photos > img {
+    max-width: 100%;
+    display: block;
+}
+
+
+hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
+
+ 
+
+@media screen and (max-width: 650px) {
+
+  .main-subject-page .content-subject-page {
+    width: 100%;
+    display: block;
+  }
+}
+
+
+ .main-subject-page {
+  width: 1170px;
+  margin: 100px auto;
+}
+.content-subject-page {
+  text-align: center;
+  margin-bottom: 80px;
+}
+.content-subject-page h2 {
+  text-transform: capitalize;
+  font-size: 35px;
+  position: relative;
+  display: inline-block;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+}
+.content-subject-page h2:before {
+  content: "";
+  position: absolute;
+  width: 60px;
+  height: 3px;
+  background-color: #00875c;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.sub-main-subject-page {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.sub-content-subject-page {
+  width: 31%;
+}
+.sub-content-subject-page h4 {
+  text-transform: capitalize;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  position: relative;
+  padding-bottom: 10px;
+}
+.sub-content-subject-page h4:before {
+  content: "";
+  position: absolute;
+  width: 40px;
+  height: 2px;
+  background-color: #00875c;
+  bottom: 0;
+}
+.row-subject-page {
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+}
+.row-subject-page img {
+
+  max-width: 110px;
+  border: 1px dashed #ddd;
+  padding: 3px;
+  margin-right: 15px;
+  
+}
+.row-subject-page:hover img{
+    transform: rotate(360deg);
+}
+.row-subject-page .column-subject-page h5 {
+  text-transform: capitalize;
+  font-size: 22px;
+  font-weight: 500;
+  border-bottom: 1px dashed #222;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+.row-subject-page .column-subject-page h5 span {
+  color: tomato;
+  float: right;
+  font-weight: 600;
+  font-style: italic;
+}
+
+
+
+
+/* Create four equal columns that floats next to each other */
+.column-about-us {
+  float: left;
+  max-width: 25%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row-about-us:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+  .column-about-us  {
+    width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column-about-us  {
+    width: 100%;
+  }
+}
+
+
+
+
+/* Style inputs */
+input[type=text], select-contact-us-page, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit]-contact-us-page {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Style the container/contact section */
+.container-contact-us-page {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+/* Create two columns that float next to eachother */
+.column-contact-us-page {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row-contact-us-page:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column-online-contact-us-page, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+
+
+
+
+
+
+
