@@ -91,7 +91,7 @@ section {
   width: min(90%, 70.5rem);
 }
 
-.split {
+.divided-page {
   display: flex;
   flex-direction: column;
 }
@@ -169,15 +169,15 @@ border-bottom: 1px solid ;
 
 
 @media (min-width: 40em) {
-  .split {
+  .divided-page {
     flex-direction: row;
   }
 
-  .split > * {
+  .divided-page > * {
     flex-basis: 100%;
   }
 
-  .split > * + * {
+  .divided-page > * + * {
     margin-left: 2em;
   }
 }
@@ -195,12 +195,12 @@ border-bottom: 1px solid ;
   background-color: var(--clr-primary-400);
 }
 
-.bg-dark {
+.About-us-page-4 {
   color: var(--clr-neutral-100);
   background-color: var(--clr-neutral-900);
 }
 
 .bg-primary h2,
-.bg-dark h2 {
+.About-us-page-4 h2 {
   color: var(--clr-primary-200);
 }
