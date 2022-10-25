@@ -16,6 +16,8 @@ body {
   font-weight: 400;
   font-size: 1.3125rem;
   line-height: 1.6;
+  padding: 10px;
+  background: #fff;
 }
 
 *, *:before, *:after {
@@ -75,7 +77,7 @@ section {
 }
 
 .image-2 {
-  background-image: url('../images/background\ pic.jpg');
+  background-image: url('../images/image-2-2.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   
@@ -93,11 +95,39 @@ section {
   flex-direction: column;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.gift-wrapper > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gift-wrapper > div > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.gift-wrapper {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-auto-rows: 200px;
+  grid-auto-flow: dense;
+}
 
 #main {
   font-size: 110%;
   position: relative;
   letter-spacing: 4px;
+  padding-bottom: 30px;
 }
 
 #main li {
