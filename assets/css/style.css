@@ -2,10 +2,10 @@
 
 :root {
   --clr-primary-200: #F3EED9;
-  --clr-primary-400: #605551;
+  --clr-primary-400: #0e387a;
 
   --clr-neutral-100: #fff;
-  --clr-neutral-900: #222C2A;
+  --clr-neutral-900: #9fafca;
 
   --ff-primary: 'lato', sans-serif;
   --ff-accent: 'oswald', sans-serif;
@@ -78,7 +78,7 @@ section {
 }
 
 .image-2 {
-  background-image: url('../images/image-2-2.jpg');
+  background-image: url('../images/background\ pic.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   
