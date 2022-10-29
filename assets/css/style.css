@@ -79,7 +79,10 @@ section {
     }
   }
 
-
+.address{
+  border: 1px solid black;
+  text-align: center;
+}
 
 .image-2 {
   background-image: url('../images/background\ pic.jpg');
