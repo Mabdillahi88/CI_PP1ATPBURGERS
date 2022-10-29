@@ -258,3 +258,35 @@ input[type=submit]:hover {
 }
 
 
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--clr-primary-400);
+  color: white;
+}
+
+.brand-name {
+  font-size: 1.5rem;
+  margin: 0.5rem;
+}
+
+.navbar-links-homepage ul {
+margin: 0;
+padding: 0;
+display: flex;
+
+}
+
+.navbar-links-homepage li {
+  list-style: none;
+}
+
+git 
+.navbar-links-homepage li a {
+  text-decoration: none;
+  color: white;
+  padding: 1rem;
+  display: block;
+}
+
