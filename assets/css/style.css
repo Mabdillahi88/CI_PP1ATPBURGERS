@@ -256,3 +256,37 @@ input[type=submit]:hover {
     margin-top: 0;
   }
 }
+
+
+.divide {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.left-form {
+  left: 0;
+  background-color: #111;
+}
+
+.right-location {
+  right: 0;
+  background-color: red;
+}
+
+.centered-contact-us {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.centered-contact-us img {
+  width: 150px;
+  border-radius: 50%;
+}
