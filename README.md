@@ -60,3 +60,12 @@
 -  People looking for a online school that offers subject matter experts to generate good grades
 -  People looking for a online school that offers STEM rich subjects
 -  People looking for a online school that offers teaching and learning experience to range of age groups
+
+### User Requrements and Expectations
+
+- easy to use navigation system
+- access to revelant entry requirements for each subject
+- all links are working correctly
+- responsive website that work on all commonly used devices
+- asy sign up and contact details page
+
