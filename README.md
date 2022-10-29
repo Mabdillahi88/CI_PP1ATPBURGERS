@@ -69,3 +69,10 @@
 - responsive website that work on all commonly used devices
 - asy sign up and contact details page
 
+### User Stories
+
+#### First-time User 
+1. As a first-time user, I want to know where the online school main offices are located
+2. As a first-time user, I want to more about the subjects available
+3. As a first-time user, I want to get an aesthetics feel of the online school
+4. As a first-time user, I want to know more about the teaching method of the online school
