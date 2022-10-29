@@ -76,3 +76,11 @@
 2. As a first-time user, I want to more about the subjects available
 3. As a first-time user, I want to get an aesthetics feel of the online school
 4. As a first-time user, I want to know more about the teaching method of the online school
+
+#### Returning User
+5. As a returning user, I want to know the entry requirements
+6. As a returning user, I want to find a phone number and email address to call for more information
+7. As a returning user, I want to see the subjects on available 
+8. As a returning user, I want to leave comment, suggestion, or message to the online school
+9. As a returning user, I want to find the online school on social media
+10. As a returning user, I want to get directions to the online school main offices
