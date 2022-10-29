@@ -41,4 +41,7 @@
 ## Project Goals
 
 ### User Goals
-- To provide testing
+- Finding a website that offers a good learning atmosphere with expert teachers
+- See a full lists subject and necessary entry requirements
+- Find information about the teaching and learning methods
+- Find the location of the offices
