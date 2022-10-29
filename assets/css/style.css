@@ -5,7 +5,7 @@
   --clr-primary-400: #0e387a;
 
   --clr-neutral-100: #fff;
-  --clr-neutral-900: #9fafca;
+  --clr-neutral-900: #0e60ec;
 
   --ff-primary: 'lato', sans-serif;
   --ff-accent: 'oswald', sans-serif;
@@ -55,7 +55,7 @@ img {
 }
 
 .container-3 {
-  color: white;
+  color: rgb(8, 8, 8);
   font-size: 5rem;
   font-family: var(--ff-accent);
   font-weight: 900;
@@ -68,14 +68,18 @@ img {
 
 header,
 section {
-  padding: 4rem 0;
+  padding: 4rem 0;}
+
+ 
   @media (min-width: 40em) {
-    header,
+
+        header,
     section {
       padding: 7rem 0;
     }
   }
-}
+
+
 
 .image-2 {
   background-image: url('../images/background\ pic.jpg');
@@ -124,28 +128,12 @@ img {
   grid-auto-flow: dense;
 }
 
-#main {
-  font-size: 110%;
-  position: relative;
-  letter-spacing: 4px;
-  padding-bottom: 30px;
+
+
+.google-maps > iframe {
+  width: 100%;
+  height: auto;
 }
-
-#main li {
-  float: right;
-  list-style: none;
-  margin: 30px;
-}
-
-
-#main a:hover {
-  border-bottom: 1px solid #3a3a3a;
-}
-
-.active {
-border-bottom: 1px solid ;
-}
-
 
 .social-networks {
   text-align: center;
@@ -162,11 +150,6 @@ border-bottom: 1px solid ;
   padding: 4%;
   color: #3a3a3a;
 }
-
-
-
-
-
 
 @media (min-width: 40em) {
   .divided-page {
@@ -348,4 +331,6 @@ input[type=submit]:hover {
   }
 }
 
-
+.tailored {
+  color: #130F07;
+}
