@@ -46,9 +46,17 @@
 - Find information about the teaching and learning methods
 - Find the location of the offices
 
-### User Stories
+### Site Owner Goals
 
  - Increase in the number of students
  -  increase revenue
  - increase the number of subjects on available
  - become a centre of excellence for teaching and learning
+
+ ## User Experience
+
+ ### Target Audience
+- People looking for a online school that offers excellent teaching and learning environment
+-  People looking for a online school that offers subject matter experts to generate good grades
+-  People looking for a online school that offers STEM rich subjects
+-  People looking for a online school that offers teaching and learning experience to range of age groups
