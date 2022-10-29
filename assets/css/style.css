@@ -270,12 +270,12 @@ input[type=submit]:hover {
 
 .left-form {
   left: 0;
-  background-color: #111;
+  
 }
 
 .right-location {
   right: 0;
-  background-color: red;
+  
 }
 
 .centered-contact-us {
