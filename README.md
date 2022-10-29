@@ -45,3 +45,10 @@
 - See a full lists subject and necessary entry requirements
 - Find information about the teaching and learning methods
 - Find the location of the offices
+
+### User Stories
+
+ - Increase in the number of students
+ -  increase revenue
+ - increase the number of subjects on available
+ - become a centre of excellence for teaching and learning
