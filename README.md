@@ -172,3 +172,34 @@ The page consists of four pages
 - User stories covered: 3, 9, 14
 
 ![Footer](docs/features/footer.JPG)
+
+### Home
+- Gives a description of the method used for teaching and learning and its facilities with a image of the students using the libary at the main offices to revisiong and learning together.
+
+- User stories covered: 3, 14
+
+![About Us](docs/features/feature-about-us.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Validation
+
+## Validation
+
+### HTML Validation
+The website's HTML was examined using the W3C Markup Validation Service. No problems or visible warnings are present on any of the pages.
+
+![validation-home](docs/validation/validation-accessibility-index.JPG)
