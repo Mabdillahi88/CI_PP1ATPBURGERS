@@ -71,7 +71,7 @@ img {
 header,
 section {
   padding: 4rem 0;}
-
+/* This is not my code but I have credited it  the readme file */
   /* to make header responsive */
  
   @media (min-width: 40em) {
@@ -134,7 +134,7 @@ img {
   padding: 4%;
   color: #3a3a3a;
 }
-
+/* This is not my code but I have credited in  the readme file */
 /* image gallery grid */
 .gallery-slides > div {
   display: flex;
@@ -157,7 +157,7 @@ img {
   grid-auto-flow: dense;
 }
 
-
+/* This is not my code but I have credited in  the readme file */
 @media (min-width: 40em) {
   .divided-page {
     flex-direction: row;
