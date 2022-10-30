@@ -122,8 +122,37 @@ There are five distinct pages on the website:
 - A homepage that breaks down our technique for online teaching into three sections.
 - A registration page with a map of the area and contact information
 
+### Wireframes
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
+
+- Git
+- GitHub
+- Gitpod
+- Balsamiq
+- Google Fonts
+- Adobe Color
+- Font Awsome
+- Favicon<span>.</span>io
 
 
 
