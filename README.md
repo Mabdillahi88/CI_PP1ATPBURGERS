@@ -315,28 +315,28 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Subject page | navigate to the subject page. Scroll down to the subject of interest | functions as intended
+| Subject page | navigate to the subject page. Scroll down to the subject of interest | displaying the subjects avaliable | functions as intended
 
 
 8. As a returning user, I want to leave comment, suggestion, or message to the online school
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Sign up page | navigate to the sign up page. Scroll down to the subject of interest| 
+| Sign up page | navigate to the sign up page. Scroll down to the section for suggestions, comment and questions | displaying the empty text box | functions as intended
 
 
 9. As a returning user, I want to find the online school on social media
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| 
+|-------------|------------|---------------------|-------------------| 
+| Footer on every web page | navigate to the bottom of the page | displaying the social media links | functions as intended
 
 
 10. As a returning user, I want to get directions to the online school main offices
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| 
+| sign up page | navigate to the sign up page. Scroll down to the map and address section | displaying map and address of the main offices | functions as intended
 
 
 11. As the site owner, I want users to know more about our teaching and learning method.
