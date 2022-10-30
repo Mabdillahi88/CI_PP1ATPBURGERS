@@ -206,3 +206,4 @@ The website's HTML was examined using the W3C Markup Validation Service. No prob
 
 ![validation-home](docs/validation/validation_html_index.JPG)
 
+![validation-home](docs/validation/validation_html_index.JPG)
