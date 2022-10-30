@@ -105,3 +105,10 @@ For the colour theme, bright and dark blue tones are used. When learning tough m
 
 ![Colour scheme](docs/features/color-palette.JPG)
 
+### Fonts
+Lato has several various styles and is quite legible, making it a suitable typeface for websites. Both fonts are considered dyslexia friendly.
+<br>
+Oswald is a sans serif font that pairs well with almost any other serif or sans serif typeface. It is that alluring and accommodating. It always adds contrast to a typographic combination because to its minor elongation. 
+
+
+
