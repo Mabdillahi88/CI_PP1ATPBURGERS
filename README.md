@@ -319,7 +319,6 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 ![entry-requirements](docs/features/entry-requirements.JPG)
 
 
-
 6. As a returning user, I want to find a phone number and email address to call for more information
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -350,6 +349,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 |-------------|------------|---------------------|-------------------| 
 | Footer on every web page | navigate to the bottom of the page | displaying the social media links | functions as intended
 
+![social-media](docs/features/social-media.JPG)
 
 10. As a returning user, I want to get directions to the online school main offices
 
@@ -373,6 +373,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 |-------------|------------|---------------------|-------------------|
 | gallery page | navigate to the gallery page | displaying all the images about the online school | functions as intended
 
+![image-gallery](docs/features/image-gallery.JPG)
 
 13. As the site owner, I want the users to be able to contact us
 
@@ -380,6 +381,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 |-------------|------------|---------------------|-------------------|
 | Sign up page | navigate to the subject page. Scroll down below the map section | displaying the contact details of online school | functions as intended
 
+![info-box](docs/features/info-box.JPG)
 
 ## Bugs
 
