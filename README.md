@@ -188,41 +188,23 @@ The page consists of four pages
 ![image-gallery](docs/features/image-gallery.JPG)
 
 ### Contact Form
-- A way for user to provide feedback
-- User stories covered: 9, 15
+- a comments, questions or suggestions box has been placed for user to send us messages
+- User stories covered: 8, 13
 
-
+![contact-form](docs/features/contact-form.JPG)
 
 ### Map
 - The location of the main offices is on google maps
 - User stories covered: 1, 10
 
-![image-gallery](docs/features/image-gallery.JPG)
+![map](docs/features/map.JPG)
 
 
 ### Info Box
-- Provides the user with information about the restaurant including addres, phone number, email, and the name of the owner
-- User stories covered: 7, 15
+- Users have been provide with contacts details e.g. address, phone number and email address of main offices
+- User stories covered: 4, 10 and 13
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![info-box](docs/features/info-box.JPG)
 
 
 ## Validation
@@ -301,6 +283,7 @@ Google Chrome Developer Tools Device Toggling was utilized to evaluate all webpa
 |-------------|------------|---------------------|-------------------|
 | google map | Locate the Google Map on the Sign Up page by navigating there | displaying a map depicting the location of the head office of the online school | Functions as intended
 
+![map](docs/features/map.JPG)
 
 2. As a first-time user, I want to more about the subjects available
 
@@ -309,6 +292,7 @@ Google Chrome Developer Tools Device Toggling was utilized to evaluate all webpa
 | 
 Subject page | navigate to the subject page | displaying all the subjects available | functions as intended
 
+![subjects](docs/features/subjects-avaliable.JPG)
 
 3. As a first-time user, I want to get an aesthetics feel of the online school
 
@@ -316,7 +300,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 |-------------|------------|---------------------|-------------------|
 | gallery page | navigate to the gallery page | displaying all the images about the online school | functions as intended
 
-
+![image-gallery](docs/features/image-gallery.JPG)
 
 4. As a first-time user, I want to know more about the teaching method of the online school
 
@@ -324,6 +308,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 |-------------|------------|---------------------|-------------------|
 | home page | navigate to the home page | displaying the teaching and learning methods of online school | functions as intended
 
+![teaching](docs/features/teaching.JPG)
 
 5. As a returning user, I want to know the entry requirements
 
@@ -331,6 +316,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 |-------------|------------|---------------------|-------------------|
 | subject page | navigate to the subject page. Scroll down to the subject of interest. Look at the image of entry requirements | displaying the entry requirements of the subject of interest | functions as intended
 
+![entry-requirements](docs/features/teaching.JPG)
 
 6. As a returning user, I want to find a phone number and email address to call for more information
 
