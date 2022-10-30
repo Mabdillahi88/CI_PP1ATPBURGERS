@@ -316,7 +316,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 |-------------|------------|---------------------|-------------------|
 | subject page | navigate to the subject page. Scroll down to the subject of interest. Look at the image of entry requirements | displaying the entry requirements of the subject of interest | functions as intended
 
-![entry-requirements](docs/features/teaching.JPG)
+![entry-requirements](docs/features/entry-requirements.JPG)
 
 6. As a returning user, I want to find a phone number and email address to call for more information
 
@@ -324,6 +324,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 |-------------|------------|---------------------|-------------------|
 | Sign up page | navigate to the subject page. Scroll down below the map section | displaying the contact details of online school | functions as intended
 
+![info-box](docs/features/info-box.JPG)
 
 7. As a returning user, I want to see the subjects on available 
 
@@ -331,6 +332,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 |-------------|------------|---------------------|-------------------|
 | Subject page | navigate to the subject page. Scroll down to the subject of interest | displaying the subjects avaliable | functions as intended
 
+![subjects](docs/features/subjects-avaliable.JPG)
 
 8. As a returning user, I want to leave comment, suggestion, or message to the online school
 
@@ -338,6 +340,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 |-------------|------------|---------------------|-------------------|
 | Sign up page | navigate to the sign up page. Scroll down to the section for suggestions, comment and questions | displaying the empty text box | functions as intended
 
+![contact-form](docs/features/contact-form.JPG)
 
 9. As a returning user, I want to find the online school on social media
 
@@ -352,6 +355,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 |-------------|------------|---------------------|-------------------|
 | sign up page | navigate to the sign up page. Scroll down to the map and address section | displaying map and address of the main offices | functions as intended
 
+![map](docs/features/map.JPG)
 
 11. As the site owner, I want users to know more about our teaching and learning method.
 
@@ -359,6 +363,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 |-------------|------------|---------------------|-------------------|
 | home page | navigate to the sign up page. Scroll down to the  about us section | displaying the teaching and learning methods of online school | functions as intended
 
+![teaching](docs/features/teaching.JPG)
 
 12. As the site owner, I want to give users an aesthetics feel of the online school  
 
