@@ -202,8 +202,18 @@ The page consists of four pages
 ### HTML Validation
 The website's HTML was examined using the W3C Markup Validation Service. No problems or visible warnings are present on any of the pages.
 
-![validation-home](docs/validation/validation_html_index.JPG)
+# Home
 
 ![validation-home](docs/validation/validation_html_index.JPG)
 
-![validation-home](docs/validation/validation_html_index.JPG)
+# Subject
+
+![validation-subject](docs/validation/validation_subjects_index.JPG)
+
+# Gallery
+
+![validation-gallery](docs/validation/validation_gallery_index.JPG
+
+# Sign-up
+
+![validation-sign-up](docs/validation/validation_sign-up_index.JPG)
