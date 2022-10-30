@@ -154,5 +154,14 @@ There are five distinct pages on the website:
 - Font Awsome
 - Favicon<span>.</span>io
 
+## Features
+The page consists of four pages 
 
+### Navigation Bar
 
+- Appeared on each of the five pages
+- The navbar has links to the homepage, subject page, gallery page and sign-up page and is entirely responsive
+- On smaller devices, it transforms into a toggler (hamburger menu icon)
+- Users may navigate it easily, and the link to the page they are now on is highlighted
+
+![navbar](docs/features/navbar.JPG)
