@@ -223,3 +223,19 @@ The website's CSS was examined using the W3C Jigsaw CSS Validation Service. No p
 # CSS for whole website
 ![validation-css](docs/validation/validation-css-style.JPG)
 
+
+### Accessibility
+The website was checked to see if it satisfied strict accessibility requirements using the WAVE WebAIM online accessibility evaluation tool. Zero mistakes are present on every page.
+
+# Home
+![validation-home](docs/validation/validation-accessibility-index.JPG)
+
+# Subject
+![validation-subject](docs/validation/lighthouse-performance-subjects.JPG)
+
+# Gallery
+![validation-gallery](docs/validation/validation-accessibility-gallery.JPG)
+
+# Sign-up
+![validation-sign-up](docs/validation/validation-accessibility-sign-up.JPG)
+
