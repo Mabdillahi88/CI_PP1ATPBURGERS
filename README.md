@@ -101,5 +101,7 @@ The webpage was designed to give parents an aesthetics feel of the online school
 
 ### Colour
 For the colour theme, bright and dark blue tones are used. When learning tough material, blue is a colour that stands for productivity. The ability of the colour blue to provide a secure, inviting learning atmosphere where students may grasp difficult and interesting material is well acknowledged.
+<br>
 
+![Colour scheme](docs/features/color-palette.JPG)
 
