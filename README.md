@@ -254,3 +254,14 @@ To evaluate the functionality of the website, Google Lighthouse in the Google Ch
 
 # Sign-up
 ![validation-sign-up](docs/validation/lighthouse-performance-sign-up.JPG)
+
+
+
+### Performing tests on various devices 
+The website was tested on the following devices:
+- Surface Pro 7 
+- iPhone 5/SE
+- iPad air
+
+Google Chrome Developer Tools Device Toggling was utilized to evaluate all webpages across all feasible device combinations
+
