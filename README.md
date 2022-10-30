@@ -239,3 +239,18 @@ The website was checked to see if it satisfied strict accessibility requirements
 # Sign-up
 ![validation-sign-up](docs/validation/validation-accessibility-sign-up.JPG)
 
+
+### Performance 
+To evaluate the functionality of the website, Google Lighthouse in the Google Chrome Developer Tools was utilized. 
+
+# Home
+![validation-home](docs/validation/lighthouse-performance-home.JPG)
+
+# Subject
+![validation-subject](docs/validation/lighthouse-performance-subjects.JPG)
+
+# Gallery
+![validation-gallery](docs/validation/lighthouse-performance-gallery.JPG)
+
+# Sign-up
+![validation-sign-up](docs/validation/lighthouse-performance-sign-up.JPG)
