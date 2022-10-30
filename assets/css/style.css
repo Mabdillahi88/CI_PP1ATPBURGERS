@@ -245,6 +245,7 @@ input[type=submit]:hover {
 }
 
 /* nav links on all pages */
+/* This is not my code but I have credited in  the readme file */
 .navbar-all-pages {
   display: flex;
   position: relative;

@@ -406,6 +406,8 @@ The website was deployed using GitHub Pages by undertaken these stages:
 ### Code
 
 - Responsive topvan was build using description on https://github.com/WebDevSimplified/css-tutorials/tree/master/Responsive%20Navbar
+- gallery responsiveness was build using descriptions on https://github.com/codingmastr?page=1&tab=repositories
+- split page and for all webpage responsiveness was build using descriptions on https://github.com/kevin-powell/responsive-made-easy/blob/master/index.html
 
 ## Acknowledgements
 I would like to thank:
