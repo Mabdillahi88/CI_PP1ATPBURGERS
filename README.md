@@ -350,14 +350,14 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| 
+| gallery page | navigate to the gallery page | displaying all the images about the online school | functions as intended
 
 
 13. As the site owner, I want the users to be able to contact us
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| 
+| Sign up page | navigate to the subject page. Scroll down below the map section | displaying the contact details of online school | functions as intended
 
 
 
