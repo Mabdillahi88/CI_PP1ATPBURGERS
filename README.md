@@ -91,7 +91,7 @@
 #### Site Owner 
 
 13. As the site owner, I want users to know more about our teaching and learning method.
-14. As the site owner, I want to get an aesthetics feel of the online school 
+14. As the site owner, I want to give users an aesthetics feel of the online school 
 15. As the site owner, I want the users to be able to contact us
 
 ## Design
@@ -159,9 +159,16 @@ The page consists of four pages
 
 ### Navigation Bar
 
-- Appeared on each of the five pages
+- Appeared on each of the four pages
 - The navbar has links to the homepage, subject page, gallery page and sign-up page and is entirely responsive
 - On smaller devices, it transforms into a toggler (hamburger menu icon)
 - Users may navigate it easily, and the link to the page they are now on is highlighted
 
 ![navbar](docs/features/navbar.JPG)
+
+### Footer
+- Appeared on each of the four pages
+- Consists of three social media links
+- User stories covered: 3, 9, 14
+
+![Footer](docs/features/footer.JPG)
