@@ -124,16 +124,17 @@ There are five distinct pages on the website:
 
 ### Wireframes
 
+# Home
+![wireframes-home](docs/wireframes/wireframe-home-page.JPG)
 
+# Subject
+![wireframes-subject](docs/wireframes/wireframe-subject-page.JPG)
 
+# Gallery
+![wireframes-gallery](docs/wireframes/wireframe-gallery-page.JPG)
 
-
-
-
-
-
-
-
+# Sign-up
+![wireframes-sign-up](docs/wireframes/wireframe-sign-up-page.JPG)
 
 
 
@@ -359,6 +360,11 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 |-------------|------------|---------------------|-------------------|
 | Sign up page | navigate to the subject page. Scroll down below the map section | displaying the contact details of online school | functions as intended
 
+
+## Bugs
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
 
 
 
