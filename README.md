@@ -271,7 +271,7 @@ Google Chrome Developer Tools Device Toggling was utilized to evaluate all webpa
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| 
+| google map | Locate the Google Map on the Sign Up page by navigating there | displaying a map depicting the location of the head office of the online school | Functions as intended
 
 
 2. As a first-time user, I want to more about the subjects available
