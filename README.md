@@ -286,14 +286,15 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| gallery page | navigate to the gallery page | displaying all the gallery available
+| gallery page | navigate to the gallery page | displaying all the images about the online school | functions as intended
+
 
 
 4. As a first-time user, I want to know more about the teaching method of the online school
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| home page |
+| home page | navigate to the home page | displaying the teaching and learning methods of online school | functions as intended
 
 
 5. As a returning user, I want to know the entry requirements
