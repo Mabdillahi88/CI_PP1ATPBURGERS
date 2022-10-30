@@ -93,3 +93,13 @@
 13. As the site owner, I want users to know more about our teaching and learning method.
 14. As the site owner, I want to get an aesthetics feel of the online school 
 15. As the site owner, I want the users to be able to contact us
+
+## Design
+
+### Design Choices
+The webpage was designed to give parents an aesthetics feel of the online school. Parents would then be re-assured with our clear explanation of our methodology and stem-rich selection of subjects. 
+
+### Colour
+For the colour theme, bright and dark blue tones are used. When learning tough material, blue is a colour that stands for productivity. The ability of the colour blue to provide a secure, inviting learning atmosphere where students may grasp difficult and interesting material is well acknowledged.
+
+
