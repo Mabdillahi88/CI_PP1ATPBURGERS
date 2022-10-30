@@ -107,8 +107,24 @@ For the colour theme, bright and dark blue tones are used. When learning tough m
 
 ### Fonts
 Lato has several various styles and is quite legible, making it a suitable typeface for websites. Both fonts are considered dyslexia friendly.
+
 <br>
+
 Oswald is a sans serif font that pairs well with almost any other serif or sans serif typeface. It is that alluring and accommodating. It always adds contrast to a typographic combination because to its minor elongation. 
+
+### Structure
+
+The webpages have a familiar, identifiable, user-friendly, and simple to understand structure. When a visitor first visits a website, they are greeted by a recognizable navigation bar with the page's primary header located in the centre of each page.
+
+There are five distinct pages on the website:
+
+- A topic page that highlights in detail all the needs and expectations of each subject 
+- An image gallery that highlights the aesthetics feel of the online school
+- A homepage that breaks down our technique for online teaching into three sections.
+- A registration page with a map of the area and contact information
+
+
+
 
 
 
