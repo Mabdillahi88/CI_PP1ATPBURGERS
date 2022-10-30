@@ -1,7 +1,7 @@
 # Genius Kid
 (Developer: Mohamed Abdillahi)
 
-![Mockup image]()
+![Mockup image](docs/features/our-responsive.JPG)
 
 [Live webpage](https://mabdillahi88.github.io/CI_PP1_GENIUSKID/)
 
@@ -317,6 +317,8 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 | subject page | navigate to the subject page. Scroll down to the subject of interest. Look at the image of entry requirements | displaying the entry requirements of the subject of interest | functions as intended
 
 ![entry-requirements](docs/features/entry-requirements.JPG)
+
+
 
 6. As a returning user, I want to find a phone number and email address to call for more information
 
