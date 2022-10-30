@@ -90,9 +90,9 @@
 
 #### Site Owner 
 
-13. As the site owner, I want users to know more about our teaching and learning method.
-14. As the site owner, I want to give users an aesthetics feel of the online school 
-15. As the site owner, I want the users to be able to contact us
+11. As the site owner, I want users to know more about our teaching and learning method.
+12. As the site owner, I want to give users an aesthetics feel of the online school 
+13. As the site owner, I want the users to be able to contact us
 
 ## Design
 
@@ -267,9 +267,97 @@ Google Chrome Developer Tools Device Toggling was utilized to evaluate all webpa
 
 ### Testing user stories
 
-1. As a first time user, I want to know where the restaurant is lokated
+1. As a first-time user, I want to know where the online school main offices are located
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
-| Footer - contact information section | On any page scroll down to the footer | Find the address of the restaurant | Works as expected |
+| 
+
+
+2. As a first-time user, I want to more about the subjects available
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 
+
+
+3. As a first-time user, I want to get an aesthetics feel of the online school
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 
+
+
+4. As a first-time user, I want to know more about the teaching method of the online school
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 
+
+
+5. As a returning user, I want to know the entry requirements
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 
+
+
+6. As a returning user, I want to find a phone number and email address to call for more information
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 
+
+
+7. As a returning user, I want to see the subjects on available 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 
+
+
+8. As a returning user, I want to leave comment, suggestion, or message to the online school
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 
+
+
+9. As a returning user, I want to find the online school on social media
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 
+
+
+10. As a returning user, I want to get directions to the online school main offices
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 
+
+
+11. As the site owner, I want users to know more about our teaching and learning method.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 
+
+
+12. As the site owner, I want to give users an aesthetics feel of the online school  
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 
+
+
+13. As the site owner, I want the users to be able to contact us
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 
+
+
+
+
+
