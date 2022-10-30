@@ -400,17 +400,17 @@ The website was deployed using GitHub Pages by undertaken these stages:
 
 
 ## Credits
-Images were obtained from google images
-The ideas and text were obtained and build upon ideas from https://kingsinterhigh.co.uk/gcse-online/
+- Images were obtained from google images
+- The ideas and text were obtained and build upon ideas from https://kingsinterhigh.co.uk/gcse-online/
 
 ### Code
 
-Responsive topvan was build using description on https://github.com/WebDevSimplified/css-tutorials/tree/master/Responsive%20Navbar
+- Responsive topvan was build using description on https://github.com/WebDevSimplified/css-tutorials/tree/master/Responsive%20Navbar
 
 ## Acknowledgements
 I would like to thank:
+- My wife Filsan for her patience, love and motivation and giving me free from our young children to work on the project. 
 - My mentor Mo Shami for his feedback, advice and support.
-- My wife Filsan for her patience, love and motivation and giving me free from our young children to work on the project.
 
 
 
