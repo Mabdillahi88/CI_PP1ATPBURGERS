@@ -390,6 +390,27 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 images was not responsive when devices were changed | media query were used to adjust for the different sizes of devices
 
 
+## Deployment
+
+The website was deployed using GitHub Pages by undertaken these stages:
+1. In the GitHub repository navigate to the Settings tab
+2. On the left hand menu select Pages
+3. For the source select Branch: master
+4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://mabdillahi88.github.io/CI_PP1_GENIUSKID/
+
+
+## Credits
+Images were obtained from google images
+The ideas and text were obtained and build upon ideas from https://kingsinterhigh.co.uk/gcse-online/
+
+### Code
+
+Responsive topvan was build using description on https://github.com/WebDevSimplified/css-tutorials/tree/master/Responsive%20Navbar
+
+## Acknowledgements
+I would like to thank:
+- My mentor Mo Shami for his feedback, advice and support.
+- My wife Filsan for her patience, love and motivation and giving me free from our young children to work on the project.
 
 
 
