@@ -343,7 +343,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| 
+| home page | navigate to the sign up page. Scroll down to the  about us section | displaying the teaching and learning methods of online school | functions as intended
 
 
 12. As the site owner, I want to give users an aesthetics feel of the online school  
