@@ -279,20 +279,21 @@ Google Chrome Developer Tools Device Toggling was utilized to evaluate all webpa
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | 
+Subject page | navigate to the subject page | displaying all the subjects available | functions as intended
 
 
 3. As a first-time user, I want to get an aesthetics feel of the online school
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| 
+| gallery page | navigate to the gallery page | displaying all the gallery available
 
 
 4. As a first-time user, I want to know more about the teaching method of the online school
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| 
+| home page |
 
 
 5. As a returning user, I want to know the entry requirements
