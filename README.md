@@ -387,6 +387,8 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 
 | **Bug** | **Fix** |
 | ----------- | ----------- |
+images was not responsive when devices were changed | media query were used to adjust for the different sizes of devices
+
 
 
 
