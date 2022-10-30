@@ -322,7 +322,7 @@ Subject page | navigate to the subject page | displaying all the subjects availa
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| 
+| Sign up page | navigate to the sign up page. Scroll down to the subject of interest| 
 
 
 9. As a returning user, I want to find the online school on social media
