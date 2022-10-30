@@ -181,6 +181,33 @@ The page consists of four pages
 
 ![About Us](docs/features/feature-about-us.jpg)
 
+### Image Gallery
+- Two rows of ten images each represent the aesthetics of the online school.  
+- User stories covered: 3 and 12
+
+![image-gallery](docs/features/image-gallery.JPG)
+
+### Contact Form
+- A way for user to provide feedback
+- User stories covered: 9, 15
+
+
+
+### Map
+- The location of the main offices is on google maps
+- User stories covered: 1, 10
+
+![image-gallery](docs/features/image-gallery.JPG)
+
+
+### Info Box
+- Provides the user with information about the restaurant including addres, phone number, email, and the name of the owner
+- User stories covered: 7, 15
+
+
+
+
+
 
 
 
