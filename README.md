@@ -203,17 +203,23 @@ The page consists of four pages
 The website's HTML was examined using the W3C Markup Validation Service. No problems or visible warnings are present on any of the pages.
 
 # Home
-
 ![validation-home](docs/validation/validation_html_index.JPG)
 
 # Subject
-
 ![validation-subject](docs/validation/validation_subjects_index.JPG)
 
 # Gallery
-
-![validation-gallery](docs/validation/validation_gallery_index.JPG
+![validation-gallery](docs/validation/validation_gallery_index.JPG)
 
 # Sign-up
-
 ![validation-sign-up](docs/validation/validation_sign-up_index.JPG)
+
+
+
+### CSS Validation
+
+The website's CSS was examined using the W3C Jigsaw CSS Validation Service. No problems or visible warnings are present on any of the pages.
+
+# CSS for whole website
+![validation-css](docs/validation/validation-css-style.JPG)
+
