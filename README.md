@@ -195,7 +195,7 @@ The page consists of four pages
 
 
 
-## Validation
+
 
 ## Validation
 
@@ -231,7 +231,7 @@ The website was checked to see if it satisfied strict accessibility requirements
 ![validation-home](docs/validation/validation-accessibility-index.JPG)
 
 # Subject
-![validation-subject](docs/validation/lighthouse-performance-subjects.JPG)
+![validation-subject](docs/validation/validation-accessibility-subjects.JPG)
 
 # Gallery
 ![validation-gallery](docs/validation/validation-accessibility-gallery.JPG)
