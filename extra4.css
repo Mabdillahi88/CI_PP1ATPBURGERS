@@ -260,6 +260,10 @@ input[type=submit]:hover {
   margin: .5rem;
 }
 
+.navbar-links-all-pages {
+  height: 100%;
+}
+
 .navbar-links-all-pages ul {
   display: flex;
   margin: 0;
@@ -282,7 +286,6 @@ input[type=submit]:hover {
 }
 
 .toggle-button-all-pages {
-  cursor: pointer;
   position: absolute;
   top: .75rem;
   right: 1rem;
@@ -300,36 +303,37 @@ input[type=submit]:hover {
   border-radius: 10px;
 }
 
+/* to make nav links more responsive */
 @media (max-width: 800px) {
   .navbar-all-pages {
-    flex-direction: column;
-    align-items: flex-start;
+      flex-direction: column;
+      align-items: flex-start;
   }
 
   .toggle-button-all-pages {
-    display: flex;
+      display: flex;
   }
 
   .navbar-links-all-pages {
-    display: none;
-    width: 100%;
+      display: none;
+      width: 100%;
   }
 
   .navbar-links-all-pages ul {
-    width: 100%;
-    flex-direction: column;
+      width: 100%;
+      flex-direction: column;
   }
 
   .navbar-links-all-pages ul li {
-    text-align: center;
+      text-align: center;
   }
 
   .navbar-links-all-pages ul li a {
-    padding: .5rem 1rem;
+      padding: .5rem 1rem;
   }
 
   .navbar-links-all-pages.active {
-    display: flex;
+      display: flex;
   }
 }
 
