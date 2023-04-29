@@ -27,7 +27,7 @@
 6. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
-    3. [CSS Validation](#CSS-validation)
+    3. [Javascript Validation](#CSS-validation)
     4. [Accessibility](#accessibility)
     5. [Performance](#performance)
     6. [Device testing](#performing-tests-on-various-devices)
