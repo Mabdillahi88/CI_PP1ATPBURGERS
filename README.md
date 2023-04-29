@@ -233,6 +233,12 @@ The website's CSS was examined using the W3C Jigsaw CSS Validation Service. No p
 # CSS for whole website
 ![validation-css](docs/validation/validation-css-style.JPG)
 
+### JavaScript Validation for whole website
+
+The Javascript files were checked using JSHint JS Validation Service. No major problems were discovered.
+
+![validation-css](docs/validation/validation_js.JPG)
+
 
 ### Accessibility
 The website was checked to see if it satisfied strict accessibility requirements using the WAVE WebAIM online accessibility evaluation tool. Zero mistakes are present on every page.
